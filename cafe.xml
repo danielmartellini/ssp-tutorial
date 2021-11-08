@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CAFE>
+    <MENUITEM  name="Drinks">
+        <DRINKS>
+            <ITEM>Coke</ITEM>
+            <PRICE>2.00</PRICE>
+        </DRINKS>
+        <DRINKS>
+            <ITEM>Sprite</ITEM>
+            <PRICE>2.00</PRICE>
+        </DRINKS>
+        <DRINKS  vegetarian="true">
+            <ITEM>Coke Zero</ITEM>
+            <PRICE>1.90</PRICE>
+        </DRINKS>
+    </MENUITEM>
+    <MENUITEM  name="Side Dishes">
+        <SIDES>
+            <ITEM>Chicken Bites</ITEM>
+            <PRICE>9.50</PRICE>
+        </SIDES>
+        <SIDES>
+            <ITEM>Taco Chips</ITEM>
+            <PRICE>9.00</PRICE>
+        </SIDES>
+        <SIDES  vegetarian="true">
+            <ITEM>Salad</ITEM>
+            <PRICE>6.50</PRICE>
+        </SIDES>
+    </MENUITEM>
+    <MENUITEM  name="Breakfast">
+        <BFAST>
+            <ITEM>Chicken Roll</ITEM>
+            <PRICE>4.00</PRICE>
+        </BFAST>
+        <BFAST>
+            <ITEM>Breakfast Roll</ITEM>
+            <PRICE>4.50</PRICE>
+        </BFAST>
+        <BFAST  vegetarian="true">
+            <ITEM>Cheese Toast</ITEM>
+            <PRICE>3.50</PRICE>
+        </BFAST>
+    </MENUITEM>
+    <MENUITEM  name="Lunch">
+        <LUNCH>
+            <ITEM>Pesto Pasta</ITEM>
+            <PRICE>11.00</PRICE>
+        </LUNCH>
+        <LUNCH>
+            <ITEM>Chicken Pizza</ITEM>
+            <PRICE>10.50</PRICE>
+        </LUNCH>
+        <LUNCH  vegetarian="true">
+            <ITEM>Cheese Pizza</ITEM>
+            <PRICE>10.00</PRICE>
+        </LUNCH>
+    </MENUITEM>
+    <MENUITEM  name="Dinner">
+        <DINNER>
+            <ITEM>Roast</ITEM>
+            <PRICE>12.99</PRICE>
+        </DINNER>
+        <DINNER>
+            <ITEM>Burger</ITEM>
+            <PRICE>11.99</PRICE>
+        </DINNER>
+        <DINNER  vegetarian="true">
+            <ITEM>Tofu</ITEM>
+            <PRICE>10.99</PRICE>
+        </DINNER>
+    </MENUITEM>
+</CAFE>
